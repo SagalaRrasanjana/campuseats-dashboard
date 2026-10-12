@@ -1,0 +1,28 @@
+.dish-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem;
+  width: 180px;
+}
+
+.sold-out {
+  color: red;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.menu-grid {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.search-box {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
